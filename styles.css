@@ -7,7 +7,7 @@
 div.container{
   border: 5px solid #c53333;
   width: 80%;
-  margin: 0 auto ;
+  margin: 0 auto;
 }
 header{
   background-color: burlywood;
@@ -51,5 +51,5 @@ color: aliceblue;
 text-decoration: none;
 border: 1px solid red;
 display: block;
-
+ 
 }
